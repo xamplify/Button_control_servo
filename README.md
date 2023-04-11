@@ -1,1 +1,1 @@
-# Button_control_servo
+# Control servo motor with a push button.
